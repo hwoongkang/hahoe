@@ -115,6 +115,7 @@ name = "core"
 version = "0.1.0"
 dependencies = [
  "gui",
+ "rust-3d",
  "specs",
  "terrain",
  "wasm-bindgen",
